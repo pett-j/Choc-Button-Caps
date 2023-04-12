@@ -7,4 +7,4 @@ Variants:
 - Concave
 
 Materials:
-- Theses have all been tested in MJF PA12 Nylon, but the flat can also be FDM printed.
+- All have been tested in MJF PA12 Nylon, but the flat can also be FDM printed.
