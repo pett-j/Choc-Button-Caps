@@ -1,10 +1,10 @@
 # Choc button caps
-These are a set of 24mm and 30mm buttons caps in different styles for Kailh Choc v1 low profile mechanical switches
+These are a set of 24mm and 30mm buttons caps in different styles for Kailh Choc v1 and v2 low profile mechanical switches
 
 Variants:
 - Flat
-- Convex
-- Concave
+- Convex - **to be tested**
+- Concave - **to be tested**
 
 Materials:
-- All have been tested in MJF PA12 Nylon, but the flat can also be FDM printed.
+- The flat caps can be FDM printed and I will update this when the others have been tested
