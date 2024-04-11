@@ -1,5 +1,5 @@
 # Choc button caps
-These buttons caps are in different styles for Kailh Choc V1 and V2 low profile mechanical switches. 
+These buttons caps are in different styles for Kailh Choc V1 and V2 low profile mechanical switches, which have been inspired by SGF's for the [Bridget](https://github.com/sgfdevices/Bridget).
 
 The V2's are also MX stem compatible but switch compatibility may be limited.
 
